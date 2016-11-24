@@ -3,3 +3,5 @@ Git is free software.
 Git has a mutable index called stage.
 
 This directory is for the initial Git Repository.
+
+Let me checkout a test pull request (Jiancheng).
